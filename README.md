@@ -94,10 +94,3 @@ Hill Climbing        0.000456       8              True
 Best First Search    0.002310       142            True
 Genetic Algorithm    0.015420       37             True
 ```
-
-## Possible Improvements
-
-- Add configurable parameters (population size, mutation rate, max generations) to the GUI for the Genetic Algorithm.
-- Add a visual chessboard rendering instead of text-based output.
-- Add random restarts for Hill Climbing to escape local minima more reliably.
-- Allow exporting results/comparison table to a file (CSV).
